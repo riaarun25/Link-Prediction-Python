@@ -1,5 +1,5 @@
 # Link Prediction in Social Networks
-Social and Information Networks Project
+### A Social and Information Networks Project
 
 ### Introduction
 Link Prediction is a fundamental problem in Social Network Analysis. The
